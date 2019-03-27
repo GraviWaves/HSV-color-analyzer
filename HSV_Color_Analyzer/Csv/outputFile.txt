@@ -1,0 +1,1 @@
+This folder has been create fot allocate the .csv output of the program.
